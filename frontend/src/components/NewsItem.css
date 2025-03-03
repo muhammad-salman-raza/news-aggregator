@@ -1,0 +1,21 @@
+.news-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.news-item img {
+  margin-right: 20px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.news-content {
+  text-align: left;
+}
+
+.news-content h2, .news-content p, .news-content a {
+  margin: 0;
+  padding: 0;
+} 

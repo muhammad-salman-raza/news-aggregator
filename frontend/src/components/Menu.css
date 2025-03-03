@@ -1,0 +1,24 @@
+.App-menu {
+  background-color: #f1f1f1;
+  padding: 10px 20px;
+}
+
+.App-menu ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.App-menu li {
+  cursor: pointer;
+}
+
+.App-menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.App-menu a:hover {
+  color: #007bff;
+} 
